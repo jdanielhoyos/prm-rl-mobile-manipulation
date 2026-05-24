@@ -97,8 +97,9 @@ prm-rl-mobile-manipulation/
 │   └── README.md
 │
 ├── scenes/
-│   ├── README.md
-│   └── youbot_prm_rl_scene.ttt
+├── youbot_base_controller_tuning.ttt
+├── youbot_sac_grasp_training.ttt
+└── youbot_integrated_pick_place_demo.ttt
 │
 ├── media/
 │   ├── thumbnail.png
