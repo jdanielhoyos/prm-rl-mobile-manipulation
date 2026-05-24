@@ -102,14 +102,11 @@ prm-rl-mobile-manipulation/
 └── youbot_integrated_pick_place_demo.ttt
 │
 ├── media/
-│   ├── thumbnail.png
-│   ├── demo_short.gif
-│   ├── pickup_scene.png
-│   └── place_scene.png
-│
-└── results/
-    ├── README.md
-    └── selected_metrics.json
+    ├── thumbnail.png
+    ├── demo_short.gif
+    ├── pickup_scene.png
+    └── place_scene.png
+
 ```
 
 ---
