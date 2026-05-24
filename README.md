@@ -2,6 +2,7 @@
 
 Hybrid classical planning and reinforcement learning pipeline for a simulated KUKA youBot mobile manipulator. The system combines PRM-based global navigation, path-frame feedback tracking, and SAC-based residual grasp correction for a complete pick-carry-place task.
 
+![Demo](media/demo_short.gif)
 
 ## Overview
 
